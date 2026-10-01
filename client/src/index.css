@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa; /* Medical Light Gray */
+    margin: 0;
+    font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block; /* Allows natural scrolling */
+    height: auto;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* Smooth transitions for all buttons and inputs */
+* {
+    transition: all 0.2s ease-in-out;
+}
